@@ -1,0 +1,174 @@
+Altium Designer Pick and Place Locations
+C:\Users\Bartek\OneDrive - Politechnika Warszawska\R&D\PSI\PSI (MG)\PCBs\ABPGv2\Project Outputs for ABPv2G\Pick Place\Pick Place for ABPG.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24.02.25
+Time:       15:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer       Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                               
+C39        "100 pF"     TopLayer    C0402                     51.8000      53.0000      180      Capacitor                                                                 
+C38        "100 pF"     TopLayer    C0402                     80.2000      26.0000      0        Capacitor                                                                 
+C37        "100 pF"     TopLayer    C0402                     51.8000      26.0000      180      Capacitor                                                                 
+C36        "100 pF"     TopLayer    C0402                     80.2000      53.0000      0        Capacitor                                                                 
+C35        "100 pF"     TopLayer    C0402                     53.6000      50.5500      180      Capacitor                                                                 
+C34        "1 nF"       TopLayer    C0402                     53.6000      49.5000      180      Capacitor                                                                 
+C33        "100 nF"     TopLayer    C0402                     55.1000      49.0000      270      Capacitor                                                                 
+C32        "100 pF"     TopLayer    C0402                     78.4000      28.4500      0        Capacitor                                                                 
+C31        "1 nF"       TopLayer    C0402                     78.4000      29.5000      0        Capacitor                                                                 
+C30        "100 nF"     TopLayer    C0402                     76.9000      30.0000      90       Capacitor                                                                 
+C29        "100 pF"     TopLayer    C0402                     53.6000      23.5500      180      Capacitor                                                                 
+C28        "1 nF"       TopLayer    C0402                     53.6000      22.5000      180      Capacitor                                                                 
+C27        "100 nF"     TopLayer    C0402                     55.1000      22.0000      270      Capacitor                                                                 
+C26        "100 pF"     TopLayer    C0402                     78.4000      55.5000      0        Capacitor                                                                 
+C25        "1 nF"       TopLayer    C0402                     78.4000      56.5000      0        Capacitor                                                                 
+C24        "100 nF"     TopLayer    C0402                     76.9000      57.0000      90       Capacitor                                                                 
+U8         SY58051AU    TopLayer    QFN50P300X300X90_HS-17N   54.6000      53.0000      180      "Ultra-Precision CML AnyGate® with Internal Input and Output Termination" 
+U7         SY58051AU    TopLayer    QFN50P300X300X90_HS-17N   77.4000      26.0000      0        "Ultra-Precision CML AnyGate® with Internal Input and Output Termination" 
+U6         SY58051AU    TopLayer    QFN50P300X300X90_HS-17N   54.6000      26.0000      180      "Ultra-Precision CML AnyGate® with Internal Input and Output Termination" 
+U5         SY58051AU    TopLayer    QFN50P300X300X90_HS-17N   77.4000      53.0000      0        "Ultra-Precision CML AnyGate® with Internal Input and Output Termination" 
+R88        330r         TopLayer    0603-Resistor             58.3000      54.3000      90       Resistor                                                                  
+R87        330r         TopLayer    0603-Resistor             59.8000      54.3000      90       Resistor                                                                  
+R86        1k           TopLayer    0603-Resistor             55.4000      56.5000      180      Resistor                                                                  
+R85        DNP          TopLayer    0603-Resistor             58.2750      56.5000      180      Resistor                                                                  
+R84        1k           TopLayer    0603-Resistor             57.6000      48.7000      180      Resistor                                                                  
+R83        DNP          TopLayer    0603-Resistor             55.2001      46.6001      270      Resistor                                                                  
+R82        DNP          TopLayer    0603-Resistor             55.3987      57.9987      180      Resistor                                                                  
+R81        0r           TopLayer    0603-Resistor             58.2750      57.9750      180      Resistor                                                                  
+R80        DNP          TopLayer    0603-Resistor             57.6000      50.1000      180      Resistor                                                                  
+R79        0r           TopLayer    0603-Resistor             56.8081      46.6001      270      Resistor                                                                  
+R78        250r         TopLayer    0603-Resistor             59.8000      50.8250      270      Resistor                                                                  
+R77        250r         TopLayer    0603-Resistor             63.2000      46.9750      270      Resistor                                                                  
+R76        330r         TopLayer    0603-Resistor             73.5000      24.7000      270      Resistor                                                                  
+R75        330r         TopLayer    0603-Resistor             72.1000      24.7000      270      Resistor                                                                  
+R74        1k           TopLayer    0603-Resistor             76.6000      22.6000      0        Resistor                                                                  
+R73        DNP          TopLayer    0603-Resistor             73.7250      22.6000      0        Resistor                                                                  
+R72        1k           TopLayer    0603-Resistor             74.4000      30.3000      0        Resistor                                                                  
+R71        DNP          TopLayer    0603-Resistor             76.7999      32.3999      90       Resistor                                                                  
+R70        DNP          TopLayer    0603-Resistor             76.6000      21.0000      0        Resistor                                                                  
+R69        0r           TopLayer    0603-Resistor             73.7250      21.0250      0        Resistor                                                                  
+R68        330r         TopLayer    0603-Resistor             58.5000      27.3000      90       Resistor                                                                  
+R67        330r         TopLayer    0603-Resistor             59.9000      27.3000      90       Resistor                                                                  
+R66        1k           TopLayer    0603-Resistor             55.3987      29.4475      180      Resistor                                                                  
+R65        DNP          TopLayer    0603-Resistor             58.3000      29.4000      180      Resistor                                                                  
+R64        DNP          TopLayer    0603-Resistor             74.4000      28.9000      0        Resistor                                                                  
+R63        0r           TopLayer    0603-Resistor             75.1919      32.3999      90       Resistor                                                                  
+R62        1k           TopLayer    0603-Resistor             57.6000      21.7000      180      Resistor                                                                  
+R61        DNP          TopLayer    0603-Resistor             55.2001      19.6001      270      Resistor                                                                  
+R60        250r         TopLayer    0603-Resistor             72.3000      28.1000      90       Resistor                                                                  
+R59        250r         TopLayer    0603-Resistor             68.7000      31.9000      90       Resistor                                                                  
+R58        DNP          TopLayer    0603-Resistor             55.3987      30.9987      180      Resistor                                                                  
+R57        0r           TopLayer    0603-Resistor             58.3000      31.0000      180      Resistor                                                                  
+R56        DNP          TopLayer    0603-Resistor             57.6000      23.1000      180      Resistor                                                                  
+R55        0r           TopLayer    0603-Resistor             56.8081      19.6001      270      Resistor                                                                  
+R54        250r         TopLayer    0603-Resistor             59.8000      23.8250      270      Resistor                                                                  
+R53        250r         TopLayer    0603-Resistor             63.2000      20.1000      270      Resistor                                                                  
+R52        330r         TopLayer    0603-Resistor             73.5000      51.7000      270      Resistor                                                                  
+R51        330r         TopLayer    0603-Resistor             72.1000      51.7000      270      Resistor                                                                  
+R50        1k           TopLayer    0603-Resistor             76.6013      49.5525      0        Resistor                                                                  
+R49        DNP          TopLayer    0603-Resistor             73.7000      49.5000      0        Resistor                                                                  
+R48        1k           TopLayer    0603-Resistor             74.4000      57.3000      0        Resistor                                                                  
+R47        DNP          TopLayer    0603-Resistor             76.8000      59.4000      90       Resistor                                                                  
+R46        DNP          TopLayer    0603-Resistor             76.6000      48.0000      0        Resistor                                                                  
+R45        0r           TopLayer    0603-Resistor             73.7000      48.0000      0        Resistor                                                                  
+R44        DNP          TopLayer    0603-Resistor             74.4000      55.9000      0        Resistor                                                                  
+R43        0r           TopLayer    0603-Resistor             75.1919      59.3999      90       Resistor                                                                  
+R42        250r         TopLayer    0603-Resistor             72.4000      55.1000      90       Resistor                                                                  
+R41        250r         TopLayer    0603-Resistor             68.7000      58.9000      90       Resistor                                                                  
+Q8         BC857C       TopLayer    INF-SOT23_N               62.3000      50.5000      90       "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q7         BC857C       TopLayer    INF-SOT23_N               69.7000      28.5000      270      "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q6         BC857C       TopLayer    INF-SOT23_N               62.3000      23.5000      90       "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q5         BC857C       TopLayer    INF-SOT23_N               69.7000      55.5000      270      "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+J17        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      59.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J16        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      46.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J15        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      19.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J14        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      32.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J13        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      32.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J12        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      19.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J11        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      46.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J10        SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      59.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+C23        "100 nF"     TopLayer    0603-Capacitor            61.3000      54.3000      90       Capacitor                                                                 
+C22        "100 nF"     TopLayer    0603-Capacitor            70.7000      24.7000      270      Capacitor                                                                 
+C21        "100 nF"     TopLayer    0603-Capacitor            61.3000      27.3000      90       Capacitor                                                                 
+C20        "100 nF"     TopLayer    0603-Capacitor            70.7000      51.7000      270      Capacitor                                                                 
+U4         NB7V33MMNG   TopLayer    FP-485G-01-MFG            55.0000      80.0000      180      "IC CLK DIVIDER 1:1 10GHZ 16QFN"                                          
+U3         NB7V33MMNG   TopLayer    FP-485G-01-MFG            77.0000      80.0000      0        "IC CLK DIVIDER 1:1 10GHZ 16QFN"                                          
+U2         NB7V33MMNG   TopLayer    FP-485G-01-MFG            77.0000      108.2500     0        "IC CLK DIVIDER 1:1 10GHZ 16QFN"                                          
+U1         NB7V33MMNG   TopLayer    FP-485G-01-MFG            55.0000      107.5000     180      "IC CLK DIVIDER 1:1 10GHZ 16QFN"                                          
+R40        *            TopLayer    0603-Resistor             54.4000      76.6000      180      Resistor                                                                  
+R39        *            TopLayer    0603-Resistor             78.4000      83.4000      0        Resistor                                                                  
+R38        *            TopLayer    0603-Resistor             56.5000      75.8000      270      Resistor                                                                  
+R37        DNP          TopLayer    0603-Resistor             58.1000      84.9000      180      Resistor                                                                  
+R36        DNP          TopLayer    0603-Resistor             59.2000      76.8000      270      Resistor                                                                  
+R35        *            TopLayer    0603-Resistor             75.8000      84.2000      90       Resistor                                                                  
+R34        DNP          TopLayer    0603-Resistor             73.8000      75.2000      0        Resistor                                                                  
+R33        DNP          TopLayer    0603-Resistor             72.8000      83.2000      90       Resistor                                                                  
+R32        250r         TopLayer    0603-Resistor             60.6000      77.8000      270      Resistor                                                                  
+R31        250r         TopLayer    0603-Resistor             71.5000      82.3000      90       Resistor                                                                  
+R30        DNP          TopLayer    0603-Resistor             59.7000      83.4000      180      Resistor                                                                  
+R29        DNP          TopLayer    0603-Resistor             57.8000      76.8000      90       Resistor                                                                  
+R28        DNP          TopLayer    0603-Resistor             72.3000      76.6000      0        Resistor                                                                  
+R27        DNP          TopLayer    0603-Resistor             74.3000      83.2000      270      Resistor                                                                  
+R26        1k5          TopLayer    0603-Resistor             58.9000      81.0000      90       Resistor                                                                  
+R25        1k5          TopLayer    0603-Resistor             73.1000      79.0000      270      Resistor                                                                  
+R24        1k           TopLayer    0603-Resistor             60.5000      81.0000      90       Resistor                                                                  
+R23        1k           TopLayer    0603-Resistor             71.5000      79.0000      270      Resistor                                                                  
+R22        250r         TopLayer    0603-Resistor             65.5000      76.8000      90       Resistor                                                                  
+R21        250r         TopLayer    0603-Resistor             66.7000      84.7000      90       Resistor                                                                  
+R20        *            TopLayer    0603-Resistor             77.6000      111.6000     0        Resistor                                                                  
+R19        *            TopLayer    0603-Resistor             54.3250      104.0400     180      Resistor                                                                  
+R18        *            TopLayer    0603-Resistor             75.6000      112.4000     90       Resistor                                                                  
+R17        DNP          TopLayer    0603-Resistor             73.8000      103.4000     0        Resistor                                                                  
+R16        DNP          TopLayer    0603-Resistor             72.9000      111.4000     90       Resistor                                                                  
+R15        *            TopLayer    0603-Resistor             56.2500      103.3400     270      Resistor                                                                  
+R14        DNP          TopLayer    0603-Resistor             58.1500      112.3400     180      Resistor                                                                  
+R13        DNP          TopLayer    0603-Resistor             59.1500      104.3400     270      Resistor                                                                  
+R12        250r         TopLayer    0603-Resistor             71.5000      110.6000     90       Resistor                                                                  
+R11        250r         TopLayer    0603-Resistor             60.5500      105.3400     270      Resistor                                                                  
+R10        DNP          TopLayer    0603-Resistor             72.3000      104.9000     0        Resistor                                                                  
+R9         DNP          TopLayer    0603-Resistor             74.3000      111.4000     270      Resistor                                                                  
+R8         DNP          TopLayer    0603-Resistor             59.7500      110.8400     180      Resistor                                                                  
+R7         DNP          TopLayer    0603-Resistor             57.7500      104.3400     90       Resistor                                                                  
+R6         1k5          TopLayer    0603-Resistor             73.1000      107.3000     270      Resistor                                                                  
+R5         1k5          TopLayer    0603-Resistor             58.9500      108.5400     90       Resistor                                                                  
+R4         1k           TopLayer    0603-Resistor             71.5000      107.3000     270      Resistor                                                                  
+R3         1k           TopLayer    0603-Resistor             60.4500      108.5400     90       Resistor                                                                  
+R2         250r         TopLayer    0603-Resistor             68.1000      114.6000     90       Resistor                                                                  
+R1         250r         TopLayer    0603-Resistor             63.9500      108.1400     90       Resistor                                                                  
+Q4         BC857C       TopLayer    INF-SOT23_N               63.0000      77.2000      90       "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q3         BC857C       TopLayer    INF-SOT23_N               69.0000      82.8000      270      "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q2         BC857C       TopLayer    INF-SOT23_N               69.0000      111.1000     270      "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+Q1         BC857C       TopLayer    INF-SOT23_N               63.0500      104.7400     90       "PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green"     
+P1         PBC06DGAN    TopLayer    PBC06DGAN                 63.7300      123.7700     0        "Double-row jumper plug (female) 5x2"                                     
+J9         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      86.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J8         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      73.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J7         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      73.6500      180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J6         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      86.3500      0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J5         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      101.3500     180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J4         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      113.8500     0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J3         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 83.2000      114.4500     0        "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J2         SF1621-60026 TopLayer    SF1621-60026-RO4350-0.254 48.8000      101.1500     180      "CONN 2.4MM JACK STR 50OHM SCREW"                                         
+J1         1803426      BottomLayer 1803426                   79.0000      122.0000     180      "2 Position Terminal Block Header"                                        
+C19        "100 nF"     TopLayer    0603-Capacitor            62.0000      81.0000      270      Capacitor                                                                 
+C18        "100 nF"     TopLayer    0603-Capacitor            70.0000      79.0000      90       Capacitor                                                                 
+C17        "100 pF"     TopLayer    C0402                     55.8000      82.4000      0        Capacitor                                                                 
+C16        "1 nF"       TopLayer    C0402                     54.0000      82.4000      180      Capacitor                                                                 
+C15        "100 nF"     TopLayer    C0402                     54.0000      83.5000      180      Capacitor                                                                 
+C14        "100 pF"     TopLayer    C0402                     78.0000      77.5000      0        Capacitor                                                                 
+C13        "1 nF"       TopLayer    C0402                     76.2000      77.5000      180      Capacitor                                                                 
+C12        "100 nF"     TopLayer    C0402                     78.0000      76.5000      0        Capacitor                                                                 
+C11        "100 nF"     TopLayer    0603-Capacitor            70.0000      107.3000     90       Capacitor                                                                 
+C10        "100 nF"     TopLayer    0603-Capacitor            61.9500      108.5400     270      Capacitor                                                                 
+C9         "100 pF"     TopLayer    C0402                     78.0500      105.7100     0        Capacitor                                                                 
+C8         "1 nF"       TopLayer    C0402                     76.2500      105.7100     180      Capacitor                                                                 
+C7         "100 nF"     TopLayer    C0402                     78.0500      104.7100     0        Capacitor                                                                 
+C6         "100 pF"     TopLayer    C0402                     53.9500      110.0400     180      Capacitor                                                                 
+C5         "1 nF"       TopLayer    C0402                     53.9500      111.0400     180      Capacitor                                                                 
+C4         "100 nF"     TopLayer    C0402                     55.7500      110.0400     0        Capacitor                                                                 
+C3         "100 nF"     TopLayer    C0402                     74.7000      122.0000     180      Capacitor                                                                 
+C2         "22 uF"      TopLayer    C1210                     82.6000      125.1000     0        Capacitor                                                                 
+C1         "22 uF"      TopLayer    C1210                     75.6000      125.1000     180      Capacitor                                                                 
