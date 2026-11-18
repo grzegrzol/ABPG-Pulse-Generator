@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Low Cost Picosecond Pulse Reference Source with Low Jitter - PCB Design
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Maciej
+    family-names: Grzegrzółka
+  - given-names: Bartosz
+    family-names: Gąsowski
+abstract: >-
+  The PCB project for "Low Cost Picosecond Pulse Reference
+  Source with Low Jitter".
+license: CERN-OHL-W-2.0
